@@ -1,7 +1,7 @@
 #FutureTime.py
-#Name:
-#Date:
-#Assignment:
+#Name: Salsabiel Khair Allah
+#Date: Sep.6
+#Assignment: Lab 2
 
 # datetime will allow us to access the system date and time.
 import datetime
